@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	 <style>
+		/* Styling the body element
+		like body color and margin */
+
+		body {
+			background-color: #00FA9A;
+			margin: 20%;
+		}
+
+		/* Styling the Title and giving
+		shadow to the title */
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+
+		/* Setting width and display
+		type of image */
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		/* Setting font color and font
+		size of the image-caption */
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+		}
+
+		/* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px #98FB98;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		/* Styling the title of the content */
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<!-- Title of the page -->
+		<h1 id="title">
+			SUDHA MURTHY
+		</h1>
+
+		<div id="img">
+<style>
+        .tribute-image {
+            width: 300px;
+            height: 400px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>Tribute to sudha murthy</h1>
+
+
+			<!--Image of the Tribute Person-->
+			<img src="C:\Users\vinay\OneDrive\Pictures\Screenshots\WhatsApp Image 2023-11-03 at 11.09.11_5edcb52b.jpg">
+				
+			<small id="caption">
+				Sudha Murty (née Kulkarni; born 19 August 1950) is an Indian educator, author and philanthropist who is chairperson of the Infosys Foundation
+			</small>
+<p>Visit the <a href="https://www.bing.com/ck/a?!&&p=30d22f306421fba1JmltdHM9MTY5ODg4MzIwMCZpZ3VpZD0yODA3ODBjZC1mODZjLTZmMWMtMWI1OC05Mjg5ZjljMTZlMWUmaW5zaWQ9NTI2MA&ptn=3&hsh=3&fclid=280780cd-f86c-6f1c-1b58-9289f9c16e1e&psq=sudha+murty&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU3VkaGFfTXVydHk&ntb=1">Example Website</a> for more information.</p>
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-sudha">
+				About the Legend
+			</h1>
+			<p>
+				Sudha Murthy, a prominent Indian author, philanthropist, and social worker, is widely recognized for her remarkable contributions to literature and humanitarian causes. Born on August 19, 1950, in Shiggaon, Karnataka, India, she has made an indelible mark on various aspects of Indian society.<br><br>
+
+Sudha Murthy is best known for her literary works, which include novels, short stories, and children's books. Her writing often explores themes of social issues, human values, and the challenges faced by the common people in contemporary India. Her writing style is simple, yet profound, making her work accessible to a wide range of readers.<br><br>
+
+Apart from her literary endeavors, Sudha Murthy is also renowned for her philanthropic activities. She is the chairperson of the Infosys Foundation, a non-profit organization that focuses on various social and humanitarian causes. Under her leadership, the foundation has made substantial contributions in the fields of education, healthcare, rural development, and more.<br><br>
+
+Sudha Murthy's commitment to uplifting underprivileged communities and promoting education has earned her numerous awards and accolades, including the Padma Shri, one of India's highest civilian honors. Her life and work serve as an inspiration to many, and she continues to make a significant impact through her writing and charitable efforts. Sudha Murthy's legacy is a testament to the power of literature and philanthropy in creating positive change in society.<br><br>
+
+
+
+
+
+
+			</p>
+
+
+		</div>
+		<br>
+		For more information,
+		check out
+		<a id="tribute-link" href="#">
+			<b>sudha murthy</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					vinay kumar</a></a>
+		</small>]
+	</main>
+</body>
+</html>
